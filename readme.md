@@ -65,19 +65,19 @@ By the end of the course, you will be able to:
 | 1  | Mon Mar 24 | Course introduction, [seminar structure], roles, and lightning talk format | [Begin exploring possible project topics] |
 | 2  | Wed Mar 26 | Project brainstorming workshop and research strategies | **Topic Proposal Due** |
 | -  | **Week 2** | - | - |
-| 3  | Mon Mar 31 | Lightning Talks: Frontend architecture (SPA, SSR, server components) | [Weekly Project Log] |
+| 3  | Mon Mar 31 | [Lightning Talks]: Frontend architecture (SPA, SSR, server components) | [Weekly Project Log] |
 | 4  | Wed Apr  2 | Engineering Lab: project planning and early prototype ideas | Annotated Sources |
 | -  | **Week 3** | - | - |
-| 5  | Mon Apr  7 | Lightning Talks: Build tools and developer tooling (Vite, Webpack, ESBuild) | [Weekly Project Log] |
+| 5  | Mon Apr  7 | [Lightning Talks]: Build tools and developer tooling (Vite, Webpack, ESBuild) | [Weekly Project Log] |
 | 6  | Wed Apr  9 | Engineering Lab: prototype experiments and discussion | Prototype Progress |
 | -  | **Week 4** | - | - |
-| 7  | Mon Apr 14 | Lightning Talks: Performance and application design | [Weekly Project Log] |
+| 7  | Mon Apr 14 | [Lightning Talks]: Performance and application design | [Weekly Project Log] |
 | 8  | Wed Apr 16 | **Midterm Project Progress Updates** (10 minute presentations) | Midterm Progress Presentation |
 | -  | **Week 5** | - | - |
-| 9  | Mon Apr 21 | Lightning Talks: CSS systems and UI architecture | [Weekly Project Log] |
+| 9  | Mon Apr 21 | [Lightning Talks]: CSS systems and UI architecture | [Weekly Project Log] |
 | 10 | Wed Apr 23 | Engineering Lab: prototype demos and experiment results | Prototype Development |
 | -  | **Week 6** | - | - |
-| 11 | Mon Apr 28 | Lightning Talks: emerging technologies and AI developer tools | [Weekly Project Log] |
+| 11 | Mon Apr 28 | [Lightning Talks]: emerging technologies and AI developer tools | [Weekly Project Log] |
 | 12 | Wed Apr 30 | Engineering Lab: project demos and peer feedback | Prepare Final Presentation |
 | -  | **Week 7** | - | - |
 | 13 | Mon May  5 | Final Project Presentations | Final Presentation |
