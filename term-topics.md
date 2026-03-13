@@ -1,12 +1,15 @@
 # Front-End Technology Seminar Topics
 
-Below are example research topics students may choose for their seminar project. Students may also propose their own topic with instructor approval.
+Below are example **term project topics** students may choose for their seminar project. Students may also propose their own topic with instructor approval.
 
-Each topic should involve:
+These topics are intended for the **term-long research project**, not for weekly lightning talks. Weekly seminar topics will be listed separately.
 
-- research
-- experimentation or a small prototype
-- a presentation explaining findings and trade‑offs
+A strong term project topic should:
+
+- focus on a specific frontend technology, system, or architectural question
+- include research
+- include experimentation or a small prototype
+- lead to a presentation explaining findings and trade-offs
 
 ---
 
@@ -65,16 +68,61 @@ Each topic should involve:
 26. **AI in User Interfaces** – Interfaces designed around generative AI systems.
 27. **WebAssembly in Frontend Applications** – When it makes sense and when it does not.
 28. **Offline‑First Web Applications** – Service workers and progressive web apps.
-29. **The Future of JavaScript Frameworks** – Comparing emerging frameworks.
+29. **Comparing JavaScript Framework Compilation Strategies** – How React, Vue, and Svelte differ in rendering and compilation.
 30. **The Role of the Frontend Engineer in Modern Teams** – How the role has evolved.
 
 ---
 
-Students are encouraged to narrow their topic into a specific research question. Example:
+## Proposing Your Own Topic
 
-> "How do React Server Components change the way data fetching is handled in modern web applications?"
+Students may propose their own term project topic with instructor approval.
 
-A good topic should allow the student to:
+A proposed topic should:
+
+- investigate a specific frontend technology or architectural idea
+- be framed as a **clear research question**
+- include a **small experiment or prototype**
+- be narrow enough to complete during the course
+
+Topics that are too broad, too vague, or too speculative will need to be revised.
+
+Examples:
+
+**Too broad**
+
+> React
+
+**Better**
+
+> How does Tailwind CSS affect development speed compared to component-scoped CSS?
+
+**Stronger**
+
+> Does Tailwind CSS reduce CSS bundle size in component-based React applications?
+
+---
+
+## Turning a Topic into a Project Question
+
+Students are encouraged to turn a topic into a focused research question.
+
+Example:
+
+> How do React Server Components change the way data fetching is handled in modern web applications?
+
+A strong project usually has three parts:
+
+1. **Technology or concept**
+2. **Research question**
+3. **Experiment or prototype**
+
+Example:
+
+**Topic:** React Server Components  
+**Question:** Do React Server Components significantly reduce JavaScript bundle size?  
+**Experiment:** Compare bundle sizes between an RSC-based example and a standard React component approach.
+
+A good term project should allow the student to:
 
 - investigate real tools
 - build a small experiment or prototype

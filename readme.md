@@ -62,7 +62,7 @@ By the end of the course, you will be able to:
 | Class | Date | Topics | Assignment |
 |------|------|--------|-----------|
 | -  | **Week 1** | - | - |
-| 1  | Mon Mar 24 | Course introduction, [seminar structure], roles, and lightning talk format | [Begin exploring possible project topics] |
+| 1  | Mon Mar 24 | Course introduction, [seminar structure], roles, and lightning talk format | Begin exploring possible [project topics] |
 | 2  | Wed Mar 26 | Project brainstorming workshop and research strategies | **Topic Proposal Due** |
 | -  | **Week 2** | - | - |
 | 3  | Mon Mar 31 | [Lightning Talks]: Frontend architecture (SPA, SSR, server components) | [Weekly Project Log] |
@@ -83,15 +83,17 @@ By the end of the course, you will be able to:
 | 13 | Mon May  5 | Final Project Presentations | Final Presentation |
 | 14 | Wed May  7 | Final Project Presentations | Final Presentation |
 | -  | **Week 8** | - | - |
-| 13 | Mon May 12 | Final Project Presentations and course reflection | Final Presentation |
+| 15 | Mon May 12 | Final Project Presentations and course reflection | Final Presentation |
 
 ---
+
+[getting started]: ./getting-started.md
 
 [seminar structure]: ./weekly-class-format.md
 [Lightning Talks]: ./weekly-class-format.md#Lightning-Talks
 
 [Weekly Project Log]: ./weekly-project-log.md
-[Begin exploring possible project topics]: 
+[project topics]: ./term-topics.md
 
 ## Research Topics
 
