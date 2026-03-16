@@ -11,7 +11,7 @@ If this format feels unfamiliar at first, that is normal. This page explains how
 This course combines three activities that repeat each week:
 
 1. **Lightning Talks** – short student presentations introducing technologies
-2. **Discussion** – group analysis of tools, systems, and trade‑offs
+2. **Discussion** – group analysis of the technologies presented
 3. **Engineering Lab** – experimentation and progress on your term project
 
 The goal is not just to learn tools, but to understand **why technologies exist, what problems they solve, and when engineers should use them**.
@@ -20,9 +20,7 @@ The goal is not just to learn tools, but to understand **why technologies exist,
 
 # Weekly Rhythm
 
-We meet **twice per week on Zoom**.
-
-Each meeting has a different focus.
+We meet **twice per week on Zoom**. Each meeting has a different focus.
 
 ### Monday – Technology Exploration
 
