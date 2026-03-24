@@ -12,8 +12,6 @@ This activity will help you:
 
 # Step 1 — Lightning Talk Demonstration
 
-Your instructor will begin with a **short example lightning talk**.
-
 A lightning talk is a **5–8 minute explanation** of a technology or concept. A good lightning talk answers four basic questions:
 
 1. **What is it?**
@@ -67,8 +65,6 @@ We will organize these into categories such as:
 - Architecture
 - Performance
 
-This exercise helps illustrate how **large and complex the frontend ecosystem has become**.
-
 ---
 
 # Step 3 — Lightning Talk Practice
@@ -91,8 +87,6 @@ Examples:
 - Vite
 
 Each student will give a **2 minute explanation**.
-
-This is a low‑stakes practice exercise to help everyone become comfortable explaining technical ideas.
 
 ---
 
@@ -130,15 +124,11 @@ Good projects often involve:
 
 # Step 5 — Discussion
 
-Finally, we will discuss ideas together.
-
 Questions to consider:
 
 - What frontend technologies confuse you?
 - What tools seem interesting or promising?
 - What technologies seem overhyped?
-
-These conversations often lead to strong project ideas.
 
 ---
 
