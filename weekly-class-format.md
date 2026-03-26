@@ -16,7 +16,7 @@ The goal is to help you think like a **professional frontend engineer** who can 
 
 # Weekly Structure
 
-This class meets **twice per week on Zoom (Monday and Wednesday)**.
+This class meets **twice per week on Zoom (Tuesday and Thursday)**.
 
 Each week focuses on a **theme** (for example: build tools, state management, performance, CSS systems, etc.). Students explore that theme from different perspectives.
 
@@ -38,13 +38,13 @@ Weekly topics are meant to explore the **breadth of the frontend ecosystem**. Yo
 
 ---
 
-# Monday vs Wednesday Sessions
+# Tuesday vs Thursday Sessions
 
 Because we meet twice per week, each meeting has a different purpose.
 
-## Monday — Technology Exploration
+## Tuesday — Technology Exploration
 
-Monday sessions focus on learning about technologies and architectural ideas.
+Tuesday sessions focus on learning about technologies and architectural ideas.
 
 Typical structure:
 
@@ -59,9 +59,9 @@ These sessions introduce new ideas and technologies.
 
 ---
 
-## Wednesday — Engineering Lab
+## Thursday — Engineering Lab
 
-Wednesday sessions focus on **experiments, prototypes, and project progress**.
+Thursday sessions focus on **experiments, prototypes, and project progress**.
 
 Typical structure:
 
@@ -72,7 +72,34 @@ Typical structure:
 | Middle | Technical discussion |
 | End | Project troubleshooting and next steps |
 
-These sessions connect ideas from Monday discussions to real engineering work.
+These sessions connect ideas from Tuesday discussions to real engineering work.
+
+### Expectations for Engineering Lab
+
+The Engineering Lab is where you make progress on your term project. You are expected to come prepared to **show, test, or discuss real work**.
+
+Each Thursday you should be ready to do one or more of the following:
+
+- Demonstrate a prototype, experiment, or demo
+- Show code you are working on (even if incomplete)
+- Share results from testing or measurements
+- Ask specific technical questions about problems you encountered
+
+This is not a lecture session. It is a working session.
+
+Good contributions include:
+
+- "I tested Vite vs Webpack and here are my results"
+- "Here is a small demo I built and where I got stuck"
+- "I tried two approaches and here are the trade-offs"
+
+It is okay if your work is incomplete. In fact, sharing unfinished work is encouraged because it allows the group to help you improve your project.
+
+By the end of each lab session you should have a clear idea of:
+
+- what you accomplished
+- what problems you encountered
+- what you will work on next
 
 ---
 
